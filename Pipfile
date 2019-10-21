@@ -9,7 +9,7 @@ chardet = "==3.0.4"
 idna = "==2.7"
 requests = {extras = ["socks"],version = "*"}
 selenium = "==3.141.0"
-urllib3 = "==1.24.1"
+urllib3 = "==1.24.2"
 ipython = "*"
 jsonlines = "*"
 python-slugify = "*"
